@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import './index.scss';
 import Header from "./components/Header";
 import Home from "./pages/Home";
 import { Route } from "react-router-dom";
 import Cart from "./pages/Cart";
-import { connect, useDispatch } from 'react-redux';
+
 
 
 

@@ -35,14 +35,17 @@ const Home = () => {
 
   useEffect(() => {
       dispatch(fetchPizzass(category, sortBy));
+      // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [category, sortBy]);
 
   const onSelectCategory = React.useCallback((index) => {
     dispatch(setCategory(index));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const onSelectSort = React.useCallback((type) => {
     dispatch(setSortBy(type));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleAddPizzaToCart = obj => {

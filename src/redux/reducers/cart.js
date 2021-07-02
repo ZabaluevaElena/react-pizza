@@ -1,4 +1,3 @@
-import { objectOf } from "prop-types";
 
 const initialState = {
   items: {},
@@ -44,7 +43,7 @@ const cart = (state = initialState, action) => {
     case "REMOVE_CART_ITEM":
       const keysItems = Object.keys(state.items);
       const keysNewItems = keysItems.filter(
-        (keysItems) => keysItems != [action.payload]
+        (keysItems) => keysItems !== [action.payload]
       );
       const remainPizzasObj = Object.fromEntries(
         keysNewItems.map((key) => [key, state.items[key]])
