@@ -43,8 +43,11 @@ const cart = (state = initialState, action) => {
     case "REMOVE_CART_ITEM":
       const keysItems = Object.keys(state.items);
       const keysNewItems = keysItems.filter(
-        (keysItems) => keysItems !== [action.payload]
+        (keysItems) => keysItems != [action.payload]
       );
+      console.log(action.payload);
+      console.log(keysItems);
+      console.log(keysNewItems);
       const remainPizzasObj = Object.fromEntries(
         keysNewItems.map((key) => [key, state.items[key]])
       );
