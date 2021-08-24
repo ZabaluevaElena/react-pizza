@@ -7,7 +7,7 @@
 
 ---
 
-## ![icons8-пицца-48](https://user-images.githubusercontent.com/86833667/130625178-9bfd8522-b401-40d4-b988-c23baf07c5e9.png) Stack
+## ![icons8-books-64](https://user-images.githubusercontent.com/86833667/130625232-66d2542b-6a69-43f5-9234-b1656960ab91.png) Stack
 
 - ReactJS + хуки
 - Библиотека classnames
