@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios/64/000000/external-books-science-justicon-flat-justicon.png"/> Stack
+## ![icons8-пицца-48](https://user-images.githubusercontent.com/86833667/130625178-9bfd8522-b401-40d4-b988-c23baf07c5e9.png) Stack
 
 - ReactJS + хуки
 - Библиотека classnames
