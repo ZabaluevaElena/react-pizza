@@ -10,7 +10,7 @@
 ## 🐼 Stack
 
 - ReactJS + хуки
-- Библиотека `classnames`
+- Библиотека classnames
 - React Router
 - Redux
 - Redux thunk
