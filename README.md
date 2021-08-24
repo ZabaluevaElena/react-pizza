@@ -1,6 +1,6 @@
 https://react-pizza-public.herokuapp.com/
 
-# 🪐 Star Wars Application
+# �<img src="https://img.icons8.com/emoji/48/000000/pizza-emoji.png"/> Star Wars Application
 
 ## 🐧 Links
 - `Project` https://zabaluevaelena.github.io/react-star-wars/
