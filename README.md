@@ -1,7 +1,7 @@
 
 # <img src="https://img.icons8.com/office/48/000000/pizza.png"/> Online pizza store
 
-## <img src="https://img.icons8.com/ios/60/000000/external-link-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/> Links
+## ![icons8-ссылка-16](https://user-images.githubusercontent.com/86833667/130625398-7fb3e35c-6e01-439c-b617-f9c35bda2951.png) Links
 - `Project` https://react-pizza-public.herokuapp.com/
 - `Repository` https://github.com/ZabaluevaElena
 
